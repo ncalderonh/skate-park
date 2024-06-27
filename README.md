@@ -7,7 +7,7 @@ Skate Park es una aplicación web que permite a los usuarios registrarse, inicia
 ![Página de Inicio](https://github.com/ncalderonh/skate-park/blob/main/screenshots/home.png)
 ![Página de Registro](https://github.com/ncalderonh/skate-park/blob/main/screenshots/register.png)
 ![Página de Inicio de Sesión](https://github.com/ncalderonh/skate-park/blob/main/screenshots/login.png)
-![Página de Administración](https://github.com/ncalderonh/skate-park/blob/main/screenshots/admin.png)
+![Página de Administración](https://github.com/ncalderonh/skate-park/blob/main/screenshots/admin.PNG)
 
 ## Prerrequisitos o Dependencias
 - Node.js (v20.11.0 o superior)
